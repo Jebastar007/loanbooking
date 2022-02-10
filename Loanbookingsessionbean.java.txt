@@ -9,6 +9,7 @@ import java.util.jeba;
 import java.util.john;
 import java.util.Mary;
 import java.util.Thata;
+import java.util.Amachi;
 
 public class SimpleWordCounter {
     
